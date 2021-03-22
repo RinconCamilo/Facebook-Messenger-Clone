@@ -1,0 +1,29 @@
+[debug] [2021-02-09T17:57:47.104Z] ----------------------------------------------------------------------
+[debug] [2021-02-09T17:57:47.106Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rinco\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-09T17:57:47.106Z] CLI Version:   9.3.0
+[debug] [2021-02-09T17:57:47.106Z] Platform:      win32
+[debug] [2021-02-09T17:57:47.106Z] Node Version:  v14.8.0
+[debug] [2021-02-09T17:57:47.107Z] Time:          Tue Feb 09 2021 11:57:47 GMT-0600 (Central Standard Time)
+[debug] [2021-02-09T17:57:47.107Z] ----------------------------------------------------------------------
+[debug] [2021-02-09T17:57:47.107Z] 
+[debug] [2021-02-09T17:57:47.113Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-09T17:57:47.114Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\rinco\Desktop\Facebook-Messenger-Clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-02-09T17:57:53.384Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
