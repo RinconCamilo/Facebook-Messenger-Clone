@@ -20,7 +20,7 @@ function App() {
     .onSnapshot(snapshot => {
       setMessages(snapshot.docs.map(doc => ({id: doc.id, message: doc.data()})))
     })
-  }, [])
+  }, [input])
 
   // useEffect = run code on a condition
   useEffect(() => {
